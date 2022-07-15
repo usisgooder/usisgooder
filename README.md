@@ -3,9 +3,11 @@ I'm a Computer Science student in Monash University Malaysia.
 Currently I'm working on [The Odin Project](https://www.theodinproject.com/), an online course giving an introduction to full stack web development.
 
 Check out what I've built so far!
+- 📋 Admin Dashboard - https://usisgooder.github.io/admin-dashboard/
 - 📜 Sign up form - https://usisgooder.github.io/sign-up-form/
 - 🏠 Landing page - https://usisgooder.github.io/odin-landing-page/
 - 🎨 Etch a sketch - https://usisgooder.github.io/etch-a-sketch/
+
 Source code is available at correspoding repositories.
 
 More coming soon!
