@@ -4,6 +4,7 @@ Currently I'm working on [The Odin Project](https://www.theodinproject.com/), an
 
 Check out what I've built so far!
 - 📋 Admin Dashboard - https://usisgooder.github.io/admin-dashboard/
+- 📚 Library - https://usisgooder.github.io/odin-library/
 - 📜 Sign up form - https://usisgooder.github.io/sign-up-form/
 - 🏠 Landing page - https://usisgooder.github.io/odin-landing-page/
 - 🎨 Etch a sketch - https://usisgooder.github.io/etch-a-sketch/
